@@ -1,6 +1,7 @@
 # EDA_case_study
 
-**HR Data: Employee Satisfactions and Productivity scores analysis**
+**HR Data: Employee Satisfactions and Productivity Scores analysis**\
+
 Hi,
 
 This project aimed to analyze correlations between variables. 
