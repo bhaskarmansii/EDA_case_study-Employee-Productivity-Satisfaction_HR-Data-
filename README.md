@@ -1,6 +1,6 @@
 # EDA_case_study
 
-**HR Data: Employee Satisfactions and Productivity Scores analysis**\
+**HR Data: Employee Satisfactions and Productivity Scores analysis**
 
 Hi,
 
